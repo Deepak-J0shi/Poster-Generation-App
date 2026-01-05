@@ -1,6 +1,7 @@
 # **Salon Poster Generator App**
 
 A full-stack mobile application that allows salons and small businesses to instantly generate professional marketing posters using a clean mobile UI and a backend-driven image generation system.
+
 <img width="540" height="587" alt="image" src="https://github.com/user-attachments/assets/2c3b7f18-0ef3-48b7-af6f-7b790f489579" />
 
 ---
